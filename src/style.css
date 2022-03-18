@@ -81,6 +81,7 @@ input {
   font-size: 10px;
   color: rgb(136, 136, 136);
   padding-top: 50px;
+  padding-left: 25px;
 }
 
 /*.forecast-container {
