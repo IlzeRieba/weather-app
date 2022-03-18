@@ -77,6 +77,11 @@ input {
   font-size: 16px;
 }
 
+.footnote {
+  font-size: 10px;
+  color: rgb(136, 136, 136);
+  padding-top: 50px;
+}
 
 /*.forecast-container {
   border-top: solid;
